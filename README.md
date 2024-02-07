@@ -30,9 +30,9 @@ _You may be required to set development for tailwind if required. Take help here
 
 # Screen Shots
 
-[Home_Screen]("/public/1.png")
-[create_task]("/publiccreate-task.png")
-[task_list]("/public/task-list.png")
+![Home_Screen]("/public/1.png")
+![create_task]("/publiccreate-task.png")
+![task_list]("/public/task-list.png")
 
 # For further assistance
 
